@@ -2,7 +2,7 @@ from langchain_groq import ChatGroq
 from dotenv import load_dotenv
 import streamlit as st
 import os
-from langchain_core.prompts import PromptTemplate,load_prompt
+from langchain_core.prompts import load_prompt
 
 load_dotenv()
 
@@ -13,7 +13,6 @@ model = ChatGroq(
     model_name="openai/gpt-oss-120b",
     temperature=0.3
 )
-
 
 st.header('Reasearch Tool')
 
