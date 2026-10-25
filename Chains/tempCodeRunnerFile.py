@@ -1,0 +1,1 @@
+result = chain.invoke({"text":{texts}})
