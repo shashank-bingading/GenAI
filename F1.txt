@@ -1,0 +1,105 @@
+FORMULA 1: A QUICK GUIDE
+========================
+
+1. WHAT IS FORMULA 1?
+---------------------
+Formula 1 (F1) is the highest class of international single-seater auto
+racing, sanctioned by the FIA (Fédération Internationale de l'Automobile).
+The first World Championship season was held in 1950. Today, a season
+consists of 20+ races called Grands Prix, held across the world.
+
+2. THE BASICS
+-------------
+- Teams (Constructors): 10 teams, each running 2 drivers (20 cars total)
+- Two championships: the Drivers' Championship and the Constructors' Championship
+- Race weekend format: Practice sessions -> Qualifying -> Race
+- Sprint weekends add a shorter Saturday race with its own points
+
+3. RACE WEEKEND STRUCTURE
+-------------------------
+Friday:    Free Practice sessions (teams tune car setups)
+Saturday:  Final practice + Qualifying (decides starting grid)
+           - Q1: all cars; slowest are eliminated
+           - Q2: top 15 continue; slowest eliminated
+           - Q3: top 10 fight for pole position
+Sunday:    The Grand Prix (roughly 300 km, max about 2 hours)
+
+4. POINTS SYSTEM (STANDARD RACE)
+--------------------------------
+1st: 25   2nd: 18   3rd: 15   4th: 12   5th: 10
+6th: 8    7th: 6    8th: 4    9th: 2    10th: 1
+(Sprint races award points to the top 8: 8-7-6-5-4-3-2-1)
+
+5. FLAGS
+--------
+Green:         Track is clear
+Yellow:        Danger ahead, no overtaking
+Red:           Session stopped
+Blue:          Let a faster car lap you
+Checkered:     Session or race finished
+Black/Orange:  Driver disqualified / car has mechanical problem
+
+6. THE CAR
+----------
+- Hybrid power unit: 1.6L V6 turbo + electrical energy recovery systems
+- DRS (Drag Reduction System): rear wing flap opens to aid overtaking
+- Halo: titanium cockpit protection device
+- Tyres by Pirelli: Soft (red), Medium (yellow), Hard (white),
+  plus Intermediate (green) and Wet (blue) for rain
+- Cars can exceed 350 km/h and corner at over 5 G
+
+7. PIT STOPS
+------------
+Teams change tyres in about 2-3 seconds. Strategy (when to pit, which
+tyres to use) often decides the race result. Drivers must use at least
+two different tyre compounds in a dry race.
+
+8. LEGENDARY DRIVERS
+--------------------
+- Michael Schumacher (7 titles)
+- Lewis Hamilton (7 titles)
+- Juan Manuel Fangio (5 titles)
+- Alain Prost (4 titles)
+- Sebastian Vettel (4 titles)
+- Max Verstappen (4 titles)
+- Ayrton Senna (3 titles, widely regarded as one of the greatest)
+
+9. ICONIC CIRCUITS
+------------------
+- Monaco (Circuit de Monaco): tight street circuit, the jewel of the calendar
+- Silverstone (UK): home of the first-ever F1 race in 1950
+- Monza (Italy): "Temple of Speed"
+- Spa-Francorchamps (Belgium): famous for Eau Rouge and changing weather
+- Suzuka (Japan): figure-eight layout
+- Interlagos (Brazil): dramatic championship deciders
+- Marina Bay (Singapore): night race
+
+10. FAMOUS TEAMS
+----------------
+- Ferrari: oldest and most successful team, in F1 since 1950
+- McLaren: multiple championships, rich history
+- Mercedes: dominant in the hybrid era (2014-2021)
+- Red Bull Racing: dominant in the early 2010s and again since 2022
+- Williams: legendary British team
+
+11. USEFUL TERMS
+----------------
+Pole position:  First place on the starting grid
+Undercut:       Pitting earlier to gain time on fresh tyres
+Overcut:        Staying out longer to gain track position
+Box box:        Radio call telling the driver to pit
+Parc ferme:     Cars are locked from major changes after qualifying
+Fastest lap:    Quickest single lap in the race
+Slipstream/Tow: Following closely to reduce drag and gain speed
+Lights out:     The race start signal
+
+12. FUN FACTS
+-------------
+- F1 drivers can lose 2-4 kg in sweat during a hot race.
+- A modern F1 car can generate enough downforce to theoretically drive
+  upside down at high speed.
+- The pit stop world record is under 2 seconds.
+- Drivers' heart rates can average 160+ bpm during a race.
+
+Note: Rules, teams, and calendars change season to season, so check
+formula1.com for the latest information.
