@@ -8,3 +8,12 @@ Initially available only in English, Wikipedia has grown to over 300 languages a
 Wikipedia has been praised for its internal structure and culture, enabling the democratization of knowledge, and for its extensive coverage on various topics. The encyclopedia has also been criticized for systemic bias, such as a gender bias against women and a geographical bias against the Global South.[6][7] The reliability of Wikipedia was frequently criticized in the 2000s, but has received greater praise from the late 2010s onward.[2][8] Censorship of Wikipedia by national governments has ranged from censoring specific pages to the entire site, sometimes due to its criticism of the government, or for content considered blasphemous.[9][10] Wikipedia articles on breaking news are accessed as sources for up-to-date information by many.
 """
 
+splitter = RecursiveCharacterTextSplitter(
+    chunk_size=100,
+    chunk_overlap = 0
+)
+
+chunks = splitter.split_text(text)
+
+print(chunks)
+
